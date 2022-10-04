@@ -1,7 +1,7 @@
 clc;
 clear variables;
 
-w = 1.5;
+w = 1.2;
 imshow(imread("Mecanismo.png"));
 
 %% Definimos las dimensiones del mecanismo
